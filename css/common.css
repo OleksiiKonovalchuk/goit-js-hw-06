@@ -33,3 +33,8 @@ button {
 .gallery img {
   width: 1200px;
 }
+#boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+}
